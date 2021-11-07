@@ -11,9 +11,9 @@ const GlobalStyle = createGlobalStyle`
     }
     body {
         /* font-family: "Open Sans"; */ // kommst von designtoken 
-       display: flex;
+       /* display: flex;
        justify-content: center;
-       align-items: center;
+       align-items: center; */
     
     }
 `

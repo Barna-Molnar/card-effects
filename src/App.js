@@ -1,9 +1,11 @@
+import SoftCardShadow from "./components/SoftCardShadow";
 
 
 function App() {
   return (
     <div className="App">
-      <h1>Card effects</h1>
+     
+      <SoftCardShadow/>
     </div>
   );
 }
